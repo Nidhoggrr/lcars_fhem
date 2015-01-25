@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -495,3 +496,7 @@
   </body>
 </html>
 
+=======
+# lcars_fhem
+fhem lcars interface
+>>>>>>> fc3ccc3f440d2d69165950c3762f91316c5e57e9
