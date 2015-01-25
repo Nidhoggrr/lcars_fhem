@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="204.16092"
+   height="70"
+   id="svg6922">
+  <defs
+     id="defs6924" />
+  <metadata
+     id="metadata6927">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-79.034165,-433.68548)"
+     id="layer1">
+    <g
+       transform="translate(-373.74635,265.05986)"
+       id="g4287">
+      <g
+         transform="translate(445.49381,-47.248126)"
+         id="g3348">
+        <path
+           d="m 7.2867049,285.87375 204.1609251,0 0,-70 -204.1609251,0 z"
+           id="rect7165-5"
+           style="fill:#cb99cc;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+        <text
+           x="24.530951"
+           y="265.57993"
+           id="text3785-7"
+           xml:space="preserve"
+           style="font-size:41.08899689px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.05em;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"><tspan
+             x="24.530951"
+             y="265.57993"
+             id="tspan3787-5">MEDIA</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

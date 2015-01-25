@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="204.1609"
+   height="70.000328"
+   id="svg6922">
+  <defs
+     id="defs6924" />
+  <metadata
+     id="metadata6927">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-93.066205,-445.0965)"
+     id="layer1">
+    <g
+       transform="translate(-373.74635,265.05986)"
+       id="g4287">
+      <g
+         transform="translate(459.52585,49.163217)"
+         id="g3343">
+        <path
+           d="m 7.2867052,130.87408 204.1609048,-6.6e-4 0,70.00032 -204.1609048,1e-5 z"
+           id="rect7165"
+           style="fill:#cc6699;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+        <text
+           x="23.532593"
+           y="180.57976"
+           id="text3785-3"
+           xml:space="preserve"
+           style="font-size:41.08899307px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.05em;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"><tspan
+             x="23.532593"
+             y="180.57976"
+             id="tspan3787-8">SWITCH</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

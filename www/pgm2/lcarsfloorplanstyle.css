@@ -1,0 +1,76 @@
+/* Author: Ronny */
+body[id~=Media]     { background-color: #000000; font-family:Arial, Helvetica, sans-serif; font-size:13px; }
+
+#fpmenu.fp_arrange   { position:absolute; top:20px; left:400px; min-width:310px; font-size:12px; border:1px solid #CCCCCC; background: #111111; -moz-border-radius:0px; border-radius:0px; border-spacing: 6px; padding: 6px;
+					 box-shadow:5px 5px 5px #000; }
+
+#menu    { position:absolute; top:180px; left:30px; width:128px; -moz-border-radius:0px; border-radius:0px; border-spacing: 6px; padding-bottom: 6px; padding-top: 6px;}
+#menu.floorplan  { position:absolute; top:180px; left:30px; width:128px; font-size:13px; border:1px solid #CCCCCC; background: #111111; box-shadow:5px 5px 5px #000; padding: 6px;}
+
+#hdr     { position:absolute; top:15px; left:190px; border:1px solid #CCCCCC; background: #111111; -moz-border-radius:0px; border-radius:0px; border-spacing: 6px; padding: 6px;
+	box-shadow:5px 5px 5px #000; margin-bottom: 10px;}
+#content { position:absolute; top:50px; left:180px; bottom:10px; right:10px; text-align:center}
+#startcontent {position:absolute; top:20px; left:200px; text-align:left; font-size: 16px; color:gray; } 
+#connect_err { background-color: #000000; color: #FFFFFF; position:absolute; top:0px; left:40px; z-index: 10; }
+
+a { color:#CCCCCC; text-decoration:none;}
+td {padding-left: 3px; padding-right: 3px; padding-top: 3px; padding-bottom: 3px;}
+
+img { -moz-border-radius:0px; border-radius:0px;}
+
+table { -moz-border-radius:0px; border-radius:0px; }
+table tr.sel { backround: #333333;}
+table a:hover {color: #ffffff;}
+
+	.devicename     { font-size: 14px; text-align:center; color: #111111; }
+	.devicestate    { text-align:center; color: #111111; }
+	.devicecommands { font-size:14px; text-align:center; color: #111111; }
+        .devicetimestamp{ font-size:10px; text-align:center; color: #111111; }
+
+
+table.dummy              {min-width:100px;}
+table.FHT                {min-width:100px; }
+
+h2,h3,h4 { color:#52865D; line-height:1.3; margin-top:1.5em; font-family:Verdana; }
+
+
+/* detail-selector & slider */
+select {  margin-left:5px; margin-right:5px; }
+.set,.attr { margin-bottom:5px; float:left; }
+.slider { margin-left:10px; float:left; width:140px; height:26px; border:2px solid; color:grey; }
+.set .slider { background:#101010; border-radius:0px; }
+/* timepicker */
+.set .set { margin-bottom:2px; margin-top:3px; }
+
+.handle { position:relative; cursor:pointer; width:50px; height:20px;
+          line-height:20px; border:2px solid; color:white; text-align:center; }
+.downText { margin-top:2px; }
+
+svg { }
+g.on { fill:red; }
+
+/* next lines are for remotecontrol */
+.rc_body              { border-style: solid; border-color: gray; border-width: 2px; 
+                        padding: 5px; background: #101010; font-size:6px;}
+.rc_button            { padding: 5px 7px;}
+.rc_button img        { border-style: solid; border-width: 1px; border-color: transparent; }
+.rc_button img:active { border-color: gray; }
+
+.Zoom-in {height:0px; width:0px; visibility:hidden; }
+.Zoom-out {height:0px; width:0px; visibility:hidden; }
+.Prev {height:0px; width:0px; visibility:hidden; }
+
+body     { background-color: #000000; font-family:Arial, Helvetica, sans-serif; font-size:13px;letter-spacing: -0.05em; ); background-repeat:no-repeat; }
+#backimg {position:absolute; top:0px; left:0px;}
+#Time_FP {font-size: 28px;}
+#logo    { position:absolute; top: 10px; left: 10px; width:180px;  height:600px; background-image:url(../images/default/fhemicon_dark.png); visibility:hidden;}
+table.weather            {color: #ffcc99; }
+
+.slider { float:left; width:400px; height:40px; border:0px solid; background-image:url(/fhem/images/LCARSgeneral/sliderBackground.svg);padding-left:60; }
+.handle { position:relative; cursor:move; width:50px; background-color:#99F;
+          height:30px; user-select:none;padding-top:10px;
+          border:0px solid; color:#111; text-align:center; font-size:24px; vertical-align:middle; } 
+.border { stroke:black; fill:black;}
+ 
+text { font-family:Arial, Helvetica, sans-serif; font-size:36; fill:#ffcc99; text-transform:uppercase; font-weight:bold;}
+
