@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="204.16092"
+   height="70.000053"
+   id="svg6922">
+  <defs
+     id="defs6924" />
+  <metadata
+     id="metadata6927">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-79.989265,-450.50271)"
+     id="layer1">
+    <g
+       transform="translate(-373.74635,265.05986)"
+       id="g4287">
+      <g
+         transform="translate(446.44891,-115.43085)"
+         id="g3353">
+        <path
+           d="m 7.2867049,300.8738 204.1609151,-1e-4 0,70.00004 -204.1609151,10e-6 z"
+           id="rect7165-2"
+           style="fill:#9999cc;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+        <text
+           x="24.290195"
+           y="350.5799"
+           id="text3785-7-6"
+           xml:space="preserve"
+           style="font-size:41.08899307px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.05em;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Arial;-inkscape-font-specification:Arial"><tspan
+             x="24.290195"
+             y="350.5799"
+             id="tspan3787-5-7">SCENES</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
