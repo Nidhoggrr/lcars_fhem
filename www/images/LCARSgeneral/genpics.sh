@@ -1,5 +1,5 @@
 #!/bin/bash
-for i in "17 C" "25 C" spot fnordlicht balcony boblight ceiling coffee "ikea lamp" lock unlock monitor "xmas star" watch casual "all off"
+for i in "17 C" "25 C" spot fnordlicht balcony boblight ceiling coffee "ikea lamp" lock unlock monitor "xmas star" watch casual "all off" raumfeld
 do
 echo $i
 file=$(echo ${i} | tr -d " ").svg
