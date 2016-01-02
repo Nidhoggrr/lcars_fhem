@@ -56,7 +56,7 @@ dlna_Set($@)
 			Log3 $hash, 3, "DLNAClient: First run, force stop-start ";
 			$renderer->stop();
 		} else {  
-			Log3 $hash, 3, "DLNAClient: Device is in bad state, starting up! "; 
+			Log3 $hash, 3, "DLNAClient: Device (" . $dev->getfriendlyname() . ") is in bad state, starting up! "; 
 		}
 	} else {
 		#Log3 $hash, 3,  "This is ok, skipping.";
@@ -139,7 +139,7 @@ find_renderer_by_name($)
 	if ($friendlyname !~ /$clientName/) {  Log3 $hash, 3,  "DLNAClient: skipping this device.";next;}
 		#$hash->{DEV} = $dev;
 		#readingsSingleUpdate($hash,"dev",$dev,0);
-		Log3 $hash, 3, "DLNA Client selected: [" . $friendlyname . "] [" . $dev ."]";
+		Log3 $hash, 3, "DLNA Client selected: [" . $friendlyname . "] [" . $dev ."] [". $dev->getmodelurl()."]";
 		return $dev;
 	}
 	return undef
